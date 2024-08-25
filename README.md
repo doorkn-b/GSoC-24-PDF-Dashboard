@@ -36,7 +36,7 @@ Based on this PDF data retrieved, I created the front-end functionality in the d
 Uncertainty Visualization: Incorporated the ability to plot uncertainty bands on the 1D plots, using min and max values returned from the backend to visualize the uncertainty associated with different PDF fits.
 
 ### The Code:
-All the code for the current state of the project has been uploaded to this repository for the sake of referece, the links to the main live dashboard and code will be updated accordingly when we have decided on a stable location and url for them.
+All the code for the current state of the project has been uploaded to this repository for referece, the links to the main live dashboard and code will be updated accordingly when we have decided on a stable location and url for them.
 
 ### What remains to be done:
 - Get the dashboard up and live.
